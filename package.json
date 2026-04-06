@@ -11,6 +11,7 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest"
+    "homepage": "https://shivasharantej-n.github.io/health-buddy-ai",
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
